@@ -66,7 +66,7 @@ It contains ready-to-use requests to test all available APIs for **Accounts**, *
 ## 📸 Swagger UI
 
 ## You can access the Swagger documentation at: below 
-(http://localhost:{port}/swagger-ui/index.html)
+(http://localhost:8080/swagger-ui/index.html)
 
 ##You can access the H2 Database at: below 
-(localhost:8090/h2-console)
+(http://localhost:8080/h2-console)
