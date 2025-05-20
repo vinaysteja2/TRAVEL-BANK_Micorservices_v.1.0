@@ -3,7 +3,7 @@
 TRAVEL BANK is a Spring Boot-based microservices application designed to simulate a simplified banking platform. It consists of three core microservices that handle **Accounts**, **Cards**, and **Loans** functionalities. Each service is built with **Spring Boot**, **Spring Data JPA**, **H2 database**, and includes **validations** and **exception handling** for robust and secure development.
 
 ---
-
+![Alt text](https://github.com/vinaysteja2/TRAVEL-BANK_Micorservices_v.1.0/blob/master/screenshots/Screenshot%202025-05-20%20203106.png?raw=true)
 ## 🧩 Microservices Overview
 
 ### 1️⃣ **Accounts Service**
